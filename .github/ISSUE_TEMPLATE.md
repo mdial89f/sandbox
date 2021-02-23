@@ -3,6 +3,10 @@
 - [ ] Enhancement:  New feature or request
 - [ ] Question:  Further information is requested (I have a question)
 
+#### Issue Creator Checklist
+- [ ] The appropriate label (bug, enhancement, question) has been attached to this issue.
+- [ ] This issue has been thoroughly documented below; a developer should be able to understand the issue by reading it.
+
 _Please complete the sections that pertain to your issue type, and delete the sections that don't_
 
 _For bugs:_
@@ -18,18 +22,12 @@ _List any other information that you think is important_
 ## AC:
 _Acceptance Criteria_
 
-
-
-
 _For enhancements:_
 ## Background
 _History or background behind this enahancement request._
 
 ## AC:
 _Acceptance Criteria_
-
-
-
 
 _For questions:_
 ## Question / Request for more Info
