@@ -9,10 +9,10 @@ _Describe the research stage_
 
 _Links to blog posts, patterns, libraries or addons used to solve this problem_
 
-#### Blog Posts
-- [How to Pull Request](https://github.com/flexyford/pull-request) Github Repo with Learning focused Pull Request Template.
+## Assorted Notes/Considerations
+_List any other information that you think is important... a post-merge activity, someone to notify, etc._
 
-#### Linked Issues
+#### Linked Issues to Close
 _Links to issue(s) that are closed by this PR.  Be sure to use the phrase "Closes #XXX" for each issue, so they automatically close_
 
 #### Pull Request Creator Checklist
