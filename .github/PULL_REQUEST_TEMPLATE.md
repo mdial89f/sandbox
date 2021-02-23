@@ -4,8 +4,12 @@ _Describe the problem or feature in addition to a link to the issues._
 ## Approach
 _How does this change address the problem?_
 
-#### Open Questions and Pre-Merge TODOs
-- [ ] Use github checklists. When solved, check the box and explain the answer.
+#### Pull Request Checklist
+- [ ] This PR has an associated issue or issues.
+- [ ] The issue(s) are linked above, in the Purpose section.
+- [ ] This PR meets all acceptance criteria for those issues.
+- [ ] Someone has been assigned this PR.
+- [ ] At least one person has been marked as reviewer on this PR.
 
 ## Learning
 _Describe the research stage_
