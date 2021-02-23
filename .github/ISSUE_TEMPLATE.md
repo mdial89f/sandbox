@@ -16,14 +16,18 @@ _What's the impact to the end user experience and/or application in general
 _List any other information that you think is important_
 
 ## AC:
+_Acceptance Criteria_
 
 _For enhancements:_
 ## Background
 _History or background behind this enahancement request._
-## Ask
 
 ## AC:
+_Acceptance Criteria_
 
 _For questions:_
 ## Question / Request for more Info
 _What's your question?  Or, what would you like more information on?  Don't be afraid to use plain english_
+
+## AC:
+_Acceptance Criteria.  "Answering the question" is acceptable._
