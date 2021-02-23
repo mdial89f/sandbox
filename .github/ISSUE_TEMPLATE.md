@@ -7,11 +7,17 @@ _Please complete the sections that pertain to your issue type, and delete the se
 
 _For bugs:_
 ## What's broken?
+_List a description of the bad behavior or failure.  Please be as detailed as possible.  Attach screenshots if appropriate_
 
-## 
+## What's the impact of this bug?
+_What's the impact to the end user experience and/or application in general
 
+## Assorted Notes/Considerations
+_List any other information that you think is important_
 
 _For enhancements:_
+## 
 
 _For questions:_
-
+## Question / Request for more Info
+_What's your question?  Or, what would you like more information on?  Don't be afraid to use plain english_
