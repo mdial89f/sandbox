@@ -7,12 +7,12 @@ set -e -o xtrace -o errexit -o pipefail -o nounset -u
 # It prevents conurrent deployments on the same branch
 ########################################################################################
 
-# if [[ $# -eq 0 ]] ; then
-#   echo 'ERROR:  You must pass the name of the branch to lock to the github-lock script.'
-#   exit 1
-# fi
-# branch=${1}
-branch=${GITHUB_REF#refs/heads/}
+if [[ $# -eq 0 ]] ; then
+  echo 'ERROR:  You must pass the name of the branch to lock to the github-lock script.'
+  exit 1
+fi
+branch=${1}
+
 rest=()
 github_base_url="api.github.com"
 api_url="https://$github_base_url/repos/$GITHUB_REPOSITORY/actions/runs?status=in_progress&branch=$branch"

@@ -43,6 +43,6 @@ jobs:
           fi
       - uses: actions/checkout@v1
       - name: lock this branch to prevent concurrent builds
-        run: ./.github/github-lock.sh
+        run: ./.github/github-lock.sh $branch_name
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
